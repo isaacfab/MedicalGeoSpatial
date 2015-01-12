@@ -1,7 +1,7 @@
 library(shiny)
 
 shinyUI(pageWithSidebar(
-  headerPanel("Arizona Healthcare Realty:  Market Analysis Tool"),
+  headerPanel("Arizona Healthcare Realty:  Market Analysis Training Tool"),
   
   sidebarPanel(helpText("Use the fields below to identify a medical facility type and city 
                         of interest."),
